@@ -1,0 +1,386 @@
+[
+  {
+    "@graph": [
+      {
+        "@id": "_:ub1bL58C40",
+        "@type": [
+          "http://library.ucsd.edu/ontology/dams#Relationship"
+        ],
+        "http://library.ucsd.edu/ontology/dams#personalName": [
+          {
+            "@id": "http://library.ucsd.edu/ark:/20775/bd9879500h"
+          }
+        ],
+        "http://library.ucsd.edu/ontology/dams#role": [
+          {
+            "@id": "http://library.ucsd.edu/ark:/20775/bb1673895k"
+          }
+        ]
+      },
+      {
+        "@id": "_:ub1bL32C40",
+        "@type": [
+          "http://library.ucsd.edu/ontology/dams#Note"
+        ],
+        "http://library.ucsd.edu/ontology/dams#type": [
+          {
+            "@value": "technical details"
+          }
+        ],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#value": [
+          {
+            "@value": "Software used: Microsoft Excel and BioSonics acoustic software. Coordinate system: UTM WGS1984."
+          }
+        ]
+      },
+      {
+        "@id": "_:ub1bL27C40",
+        "@type": [
+          "http://library.ucsd.edu/ontology/dams#Note"
+        ],
+        "http://library.ucsd.edu/ontology/dams#displayLabel": [
+          {
+            "@value": "digital object made available by"
+          }
+        ],
+        "http://library.ucsd.edu/ontology/dams#type": [
+          {
+            "@value": "local attribution"
+          }
+        ],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#value": [
+          {
+            "@value": "Research Data Curation Program, UC San Diego, La Jolla, 92093-0175 (http://libraries.ucsd.edu/services/data-curation/)"
+          }
+        ]
+      },
+      {
+        "@id": "_:ub1bL54C40",
+        "@type": [
+          "http://library.ucsd.edu/ontology/dams#Relationship"
+        ],
+        "http://library.ucsd.edu/ontology/dams#personalName": [
+          {
+            "@id": "http://library.ucsd.edu/ark:/20775/bd9879500h"
+          }
+        ],
+        "http://library.ucsd.edu/ontology/dams#role": [
+          {
+            "@id": "http://library.ucsd.edu/ark:/20775/bb5086960s"
+          }
+        ]
+      },
+      {
+        "@id": "_:ub1bL72C40",
+        "@type": [
+          "http://www.loc.gov/mads/rdf/v1#Title"
+        ],
+        "http://www.loc.gov/mads/rdf/v1#authoritativeLabel": [
+          {
+            "@value": "Acoustic survey of fish in Cabo Pulmo National Park"
+          }
+        ],
+        "http://www.loc.gov/mads/rdf/v1#elementList": [
+          {
+            "@list": [
+              {
+                "@id": "_:ub1bL74C69"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "@id": "_:ub1bL74C69",
+        "@type": [
+          "http://www.loc.gov/mads/rdf/v1#MainTitleElement"
+        ],
+        "http://www.loc.gov/mads/rdf/v1#elementValue": [
+          {
+            "@value": "Acoustic survey of fish in Cabo Pulmo National Park"
+          }
+        ]
+      },
+      {
+        "@id": "_:ub1bL23C40",
+        "@type": [
+          "http://library.ucsd.edu/ontology/dams#Note"
+        ],
+        "http://library.ucsd.edu/ontology/dams#type": [
+          {
+            "@value": "description"
+          }
+        ],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#value": [
+          {
+            "@value": "Data collected with acoustic transects inside and outside of Cabo Pulmo National Park. The analysis methods allowed us to estimate the number and size of the fish that were surveyed during the field campaign."
+          }
+        ]
+      },
+      {
+        "@id": "http://library.ucsd.edu/ark:/20775/bd1176351d",
+        "@type": [
+          "http://library.ucsd.edu/ontology/dams#Object"
+        ],
+        "http://library.ucsd.edu/ontology/dams#copyright": [
+          {
+            "@id": "_:ub1bL7C40"
+          }
+        ],
+        "http://library.ucsd.edu/ontology/dams#date": [
+          {
+            "@id": "_:ub1bL13C40"
+          }
+        ],
+        "http://library.ucsd.edu/ontology/dams#event": [
+          {
+            "@id": "http://library.ucsd.edu/ark:/20775/bd7285620z"
+          }
+        ],
+        "http://library.ucsd.edu/ontology/dams#geographic": [
+          {
+            "@id": "http://library.ucsd.edu/ark:/20775/bd0664401n"
+          }
+        ],
+        "http://library.ucsd.edu/ontology/dams#language": [
+          {
+            "@id": "http://library.ucsd.edu/ark:/20775/bb06839335"
+          },
+          {
+            "@id": "http://library.ucsd.edu/ark:/20775/bb87044465"
+          }
+        ],
+        "http://library.ucsd.edu/ontology/dams#note": [
+          {
+            "@id": "_:ub1bL27C40"
+          },
+          {
+            "@id": "_:ub1bL23C40"
+          },
+          {
+            "@id": "_:ub1bL32C40"
+          },
+          {
+            "@id": "_:ub1bL40C40"
+          },
+          {
+            "@id": "_:ub1bL36C40"
+          },
+          {
+            "@id": "_:ub1bL44C40"
+          }
+        ],
+        "http://library.ucsd.edu/ontology/dams#provenanceCollectionPart": [
+          {
+            "@id": "http://library.ucsd.edu/ark:/20775/bd9606463x"
+          }
+        ],
+        "http://library.ucsd.edu/ontology/dams#relatedResource": [
+          {
+            "@id": "_:ub1bL49C40"
+          }
+        ],
+        "http://library.ucsd.edu/ontology/dams#relationship": [
+          {
+            "@id": "_:ub1bL54C40"
+          },
+          {
+            "@id": "_:ub1bL62C40"
+          },
+          {
+            "@id": "_:ub1bL58C40"
+          }
+        ],
+        "http://library.ucsd.edu/ontology/dams#rightsHolderCorporate": [
+          {
+            "@id": "_:ub1bL66C40"
+          }
+        ],
+        "http://library.ucsd.edu/ontology/dams#title": [
+          {
+            "@id": "_:ub1bL72C40"
+          }
+        ],
+        "http://library.ucsd.edu/ontology/dams#unit": [
+          {
+            "@id": "http://library.ucsd.edu/ark:/20775/bb6827300d"
+          }
+        ]
+      },
+      {
+        "@id": "_:ub1bL44C40",
+        "@type": [
+          "http://library.ucsd.edu/ontology/dams#Note"
+        ],
+        "http://library.ucsd.edu/ontology/dams#type": [
+          {
+            "@value": "methods"
+          }
+        ],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#value": [
+          {
+            "@value": "Acoustic survey"
+          }
+        ]
+      },
+      {
+        "@id": "_:ub1bL49C40",
+        "@type": [
+          "http://library.ucsd.edu/ontology/dams#RelatedResource"
+        ],
+        "http://library.ucsd.edu/ontology/dams#description": [
+          {
+            "@value": "Finding fish with sound at Cabo Pulmo National Park"
+          }
+        ],
+        "http://library.ucsd.edu/ontology/dams#type": [
+          {
+            "@value": "related"
+          }
+        ],
+        "http://library.ucsd.edu/ontology/dams#uri": [
+          {
+            "@id": "http://datamares.ucsd.edu/eng/projects/promonitor/finding-fish-with-sound-at-cabo-pulmo-national-park/"
+          }
+        ]
+      },
+      {
+        "@id": "_:ub1bL66C40",
+        "@type": [
+          "http://www.loc.gov/mads/rdf/v1#CorporateName"
+        ],
+        "http://www.loc.gov/mads/rdf/v1#authoritativeLabel": [
+          {
+            "@value": "UC Regents"
+          }
+        ],
+        "http://www.loc.gov/mads/rdf/v1#elementList": [
+          {
+            "@list": [
+              {
+                "@id": "_:ub1bL68C69"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "@id": "_:ub1bL36C40",
+        "@type": [
+          "http://library.ucsd.edu/ontology/dams#Note"
+        ],
+        "http://library.ucsd.edu/ontology/dams#type": [
+          {
+            "@value": "scope and content"
+          }
+        ],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#value": [
+          {
+            "@value": "The data described here have been embargoed until 2016-11-30. Inquiries should be directed to Jack Egerton (osp23e@bangor.ac.uk)"
+          }
+        ]
+      },
+      {
+        "@id": "_:ub1bL13C40",
+        "@type": [
+          "http://library.ucsd.edu/ontology/dams#Date"
+        ],
+        "http://library.ucsd.edu/ontology/dams#beginDate": [
+          {
+            "@value": "2015-03-01"
+          }
+        ],
+        "http://library.ucsd.edu/ontology/dams#encoding": [
+          {
+            "@value": "w3cdtf"
+          }
+        ],
+        "http://library.ucsd.edu/ontology/dams#endDate": [
+          {
+            "@value": "2015-03-30"
+          }
+        ],
+        "http://library.ucsd.edu/ontology/dams#type": [
+          {
+            "@value": "collected"
+          }
+        ],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#value": [
+          {
+            "@value": "2015-03-01 to 2015-03-30"
+          }
+        ]
+      },
+      {
+        "@id": "_:ub1bL68C69",
+        "@type": [
+          "http://www.loc.gov/mads/rdf/v1#FullNameElement"
+        ],
+        "http://www.loc.gov/mads/rdf/v1#elementValue": [
+          {
+            "@value": "UC Regents"
+          }
+        ]
+      },
+      {
+        "@id": "_:ub1bL62C40",
+        "@type": [
+          "http://library.ucsd.edu/ontology/dams#Relationship"
+        ],
+        "http://library.ucsd.edu/ontology/dams#corporateName": [
+          {
+            "@id": "http://library.ucsd.edu/ark:/20775/bb27660034"
+          }
+        ],
+        "http://library.ucsd.edu/ontology/dams#role": [
+          {
+            "@id": "http://library.ucsd.edu/ark:/20775/bb3585182w"
+          }
+        ]
+      },
+      {
+        "@id": "_:ub1bL40C40",
+        "@type": [
+          "http://library.ucsd.edu/ontology/dams#Note"
+        ],
+        "http://library.ucsd.edu/ontology/dams#type": [
+          {
+            "@value": "preferred citation"
+          }
+        ],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#value": [
+          {
+            "@value": "Egerton, Jack (20##): Acoustic survey of fish in Cabo Pulmo National Park. In dataMares Project: Fisheries. UC San Diego Library Digital Collections."
+          }
+        ]
+      },
+      {
+        "@id": "_:ub1bL7C40",
+        "@type": [
+          "http://library.ucsd.edu/ontology/dams#Copyright"
+        ],
+        "http://library.ucsd.edu/ontology/dams#copyrightJurisdiction": [
+          {
+            "@value": "US"
+          }
+        ],
+        "http://library.ucsd.edu/ontology/dams#copyrightNote": [
+          {
+            "@value": "Constraint(s) on Use: This work is protected by the U.S. Copyright Law (Title 17, U.S.C.). Use of this work beyond that allowed by \"fair use\" requires written permission of the UC Regents. Responsibility for obtaining permissions and any use and distribution of this work rests exclusively with the user and not the UC San Diego Library. Inquiries can be made to the UC San Diego Library program having custody of the work."
+          }
+        ],
+        "http://library.ucsd.edu/ontology/dams#copyrightPurposeNote": [
+          {
+            "@value": "Use: This work is available from the UC San Diego Library. This digital copy of the work is intended to support research, teaching, and private study."
+          }
+        ],
+        "http://library.ucsd.edu/ontology/dams#copyrightStatus": [
+          {
+            "@value": "Under copyright"
+          }
+        ]
+      }
+    ],
+    "@id": "file:///home/zelgius/data/datamares.ttl"
+  }
+]
